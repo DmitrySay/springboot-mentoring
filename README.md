@@ -124,7 +124,7 @@ Book has only one author.
 
 
 
-### After finishind backend part you can start developing frontend part using React:
+### After finishing backend part, you can start developing frontend part using React:
 - Use latest React version https://reactjs.org/
 - Use functional components
 - Use axios library for API calls
