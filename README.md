@@ -44,6 +44,8 @@ Book has only one author.
   mentor as reviewer.
 - Create docker-compose.yml and dockerize your database and springboot service.
 
+
+
 ## Result
 
 - Demonstrate API on demo.
@@ -119,3 +121,13 @@ Book has only one author.
 - https://habr.com/ru/company/luxoft/blog/270383/
 - https://mapstruct.org/documentation/stable/reference/html/
 - https://projectlombok.org/setup/gradle
+
+
+
+### After finishind backend part you can start developing frontend part using React:
+- Use latest React version https://reactjs.org/
+- Use functional components
+- Use axios library for API calls
+- Create main page with pagination and single page for each book than implement login 
+- Create docker-compose.yml and dockerize FE using nginx. 
+- Your can start learning React from Maximilian Schwarzmüller course https://www.udemy.com/course/react-the-complete-guide-incl-redux/
